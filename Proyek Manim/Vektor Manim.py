@@ -1,3 +1,7 @@
+# Nama : Mohammad Rayyan Putera Hindam
+# Kelas : D4SM-48-05
+# Nim : 707082400011
+
 from manim import *
 
 class VectorOperations(Scene):
